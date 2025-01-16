@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+week_1_basics_n_setup/docker_sql/ny_taxi_postgres_data/
