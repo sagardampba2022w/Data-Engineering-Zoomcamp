@@ -170,3 +170,15 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 week_1_basics_n_setup/docker_sql/ny_taxi_postgres_data/
+
+
+# Exclude all JSON files
+*.json
+
+# If you want to specifically exclude keys or credential files
+keys/
+keys/*.json
+
+# Ignore specific files or folders (optional, for clarity)
+my-creds.json
+
